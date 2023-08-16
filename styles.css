@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    background-color: #34568B;
+    color: white;
+}
+
+ul, ol {
+    display: inline-block;
+}
+
+img {
+    height:auto;
+    width: 500px;
+    text-align: center;
+}
+
+.index {
+    font-size: 50px;
+}
