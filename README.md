@@ -1,2 +1,4 @@
 # odin-recipes
-a short project to practice html using a mock recipe website
+A short project to practice html and css using a mock recipe website.
+
+This mock recipe website contains three recipes copied from allrecipes.com.
