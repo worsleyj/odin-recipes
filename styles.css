@@ -17,3 +17,8 @@ img {
 .index {
     font-size: 50px;
 }
+
+#tall-image {
+    height: 500px;
+    width: auto;
+}
