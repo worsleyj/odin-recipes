@@ -30,6 +30,12 @@ img {
 }
 
 p {
+    padding: 12px;
+    border: white solid;
+}
+
+h3 {
     border-style: solid;
     padding: 12px;
+    background-color: grey;
 }
