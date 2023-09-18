@@ -23,6 +23,27 @@ img {
 
 .index {
     font-size: 50px;
+    background-color: grey  ;
+}
+
+.index * {
+    background-color: grey  ;
+}
+
+#home-header {
+    background-color: grey;
+    padding: 15px;
+    margin: -8px;   
+}
+
+#home-header * {
+    background-color: grey;
+}
+
+#index-header {
+    background-color: grey  ;
+    padding: 15px;
+    margin: -8px;   
 }
 
 #tall-image {
@@ -41,4 +62,8 @@ h3 {
     border-style: solid;
     padding: 12px;
     background-color: grey;
+}
+
+h2 {
+    font-size: 32px;
 }
