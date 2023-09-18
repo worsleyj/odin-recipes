@@ -7,11 +7,13 @@
 ul, ol {
     display: inline-block;
     border-style: solid;
+    background-color: grey;
 }
 
 li {
     margin: 20px;
     padding-left: 15px;
+    background-color: grey;
 }
 
 img {
@@ -23,15 +25,16 @@ img {
 
 .index {
     font-size: 50px;
-    background-color: grey  ;
+    background-color: grey;
 }
 
 .index * {
-    background-color: grey  ;
+    background-color: grey;
 }
 
 #home-header {
     background-color: grey;
+    border: white solid;
     padding: 15px;
     margin: -8px;   
 }
@@ -42,6 +45,7 @@ img {
 
 #index-header {
     background-color: grey  ;
+    border: white solid;
     padding: 15px;
     margin: -8px;   
 }
@@ -56,6 +60,7 @@ img {
 p {
     padding: 12px;
     border: white solid;
+    background-color: grey;
 }
 
 h3 {
