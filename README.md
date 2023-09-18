@@ -5,4 +5,4 @@ This mock recipe website contains recipes copied from allrecipes.com.
 
 To add new recipes, a template is provided.
 
-This website can be accesed through https://worsleyj.github.io/odin-recipes/.
+This website can be accessed through https://worsleyj.github.io/odin-recipes/.
