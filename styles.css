@@ -32,6 +32,11 @@ img {
     background-color: grey;
 }
 
+#index-thumbnail {
+    height: 150px;
+    width: 150px;
+}
+
 #home-header {
     background-color: grey;
     border: white solid;
